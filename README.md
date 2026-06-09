@@ -1,21 +1,8 @@
-<h2 align="center">Hi 👋! I'm Huang Jiaxin (Amy), a Computer Engineering Graduate from Hong Kong</h2>
+<h2 align="center">Hi 👋! I'm Huang Jiaxin (Amy)</h2>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Most Used Languages</h3>
-      <div align="center">
-        <img src="https://github-profile-summary-cards-opal.vercel.app/api/cards/most-commit-language?username=Amyhjxx&theme=default" height="150" alt="languages graph" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">About Me</h3>
-      <p align="center">
-        A Computer Engineering graduate from <strong>HKU</strong>. Currently exploring <strong>Quantitative Research</strong>, <strong>Machine Learning</strong>, and <strong>AI</strong> &mdash; turning data and models into insight. CFA Level&nbsp;I Candidate. Always learning, always building. 🚀
-      </p>
-    </td>
-  </tr>
-</table>
+Hi there 👋 I'm Huang Jiaxin (黄家馨, *Huáng Jiāxīn*) — you can also call me **Amy**. I'm a Computer Engineering graduate from [The University of Hong Kong](https://www.hku.hk/). My work focuses on **quantitative research** and **systematic modeling** — combining machine learning with market and alternative data to design robust, interpretable signals. 📈
+
+My interests span from **deep learning for time-series and sequential data** to applying **NLP and multimodal models** for signal extraction and data-driven decision-making.
 
 <h3 align="center">Languages</h3>
 <div align="center" style="margin: 20px 0;">
